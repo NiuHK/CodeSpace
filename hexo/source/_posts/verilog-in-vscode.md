@@ -1,11 +1,11 @@
 ---
 title: Verilog running in vscode
 date: 2024-03-07 20:34:39
-tags:
+tags: [verilog,vscode,环境配置]
 toc: true
 ---
 
-尝试在vscode跑Verilog，记录一下。
+> 尝试在vscode跑Verilog，记录一下。
 很久之前设置的，想到多少写多少吧：
 
 

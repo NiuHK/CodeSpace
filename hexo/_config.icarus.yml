@@ -19,10 +19,10 @@ head:
         # The start URL of the web application
         start_url: https://blog.danielniu.me/
         # The default theme color for the application
-        theme_color: "#3273dc"
+        theme_color: " hsl(30, 100%, 50%)"
         # A placeholder background color for the application page to display
         # before its stylesheet is loaded
-        background_color: "#3273dc"
+        background_color: " hsl(30, 100%, 50%)"
         # The preferred display mode for the website
         display: standalone
         # Image files that can serve as application icons for different contexts
@@ -227,11 +227,11 @@ sidebar:
     # Left sidebar configurations
     left:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: true
+        sticky: false
     # Right sidebar configurations
     right:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: true
+        sticky: false
 # Sidebar widget configurations
 # http://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
 widgets:

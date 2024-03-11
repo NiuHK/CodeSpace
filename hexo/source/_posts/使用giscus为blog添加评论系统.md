@@ -2,9 +2,9 @@
 title: 使用giscus为blog添加评论系统
 date: 2024-03-08 09:26:42
 toc: true
-tags:
+tags: [Icarus,blog,hexo]
 ---
-giscus指一个非常好用的由GitHub讨论支持的评论系统，它可以让你把仓库中的讨论整合到你的博客中。
+> giscus指一个非常好用的由GitHub讨论支持的评论系统，它可以让你把仓库中的讨论整合到你的博客中。
 
 <!-- more -->
 
