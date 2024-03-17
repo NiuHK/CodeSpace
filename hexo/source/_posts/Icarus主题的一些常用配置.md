@@ -3,6 +3,7 @@ title: Icarus主题的一些常用配置
 toc: true
 date: 2024-03-10 05:44:43
 tags: [icarus]
+top: 0
 ---
 > 常见的一些配置见_config.icarus.yml，英文不差都能看懂，或者去看icarus文档。本文主要就是一些网上很少的配置。
 <!-- more -->

@@ -1,8 +1,9 @@
 ---
 title: Windows 万能下载器 Aira2 懒人配置：
-date: 2024-03-07 19:39:12
+date: 2024-03-04 19:39:12
 toc: true
-tags: S[aira2]
+tags: [aira2]
+top: 0
 ---
 
 > Aria2 是一个命令行全功能下载器，同时支持磁力下载，没有原生界面但是可以使用aira2c以及airaNG的web界面

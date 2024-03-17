@@ -63,5 +63,4 @@ theme: icarus
 deploy:
   type: git
   repository: git@github.com:NiuHK/NiuHK.github.io.git
-  branch: save
-
+  branch: BlogPage

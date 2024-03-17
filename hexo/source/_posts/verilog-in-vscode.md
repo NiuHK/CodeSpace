@@ -1,8 +1,9 @@
 ---
 title: Verilog running in vscode
-date: 2024-03-07 20:34:39
+date: 2023-10-18 20:34:39
 tags: [verilog,vscode,环境配置]
 toc: true
+top: 0
 ---
 
 > 尝试在vscode跑Verilog，记录一下。

@@ -1,9 +1,13 @@
 ---
 title: c++ STL 库 （未完成）
-date: 2024-03-07 19:56:48
+date: 2024-02-28 19:56:48
 tags: [cpp,stl,algorithm]
 toc: true
 cover: https://picstorage.danielniu.me/imgs/cppstl12687.jpg
+top: 0
+article:
+    highlight:
+            fold: folded
 ---
 
 > c++ STL 库包含基本的图，列表，栈等数据结构以及基本操作，方便使用。
