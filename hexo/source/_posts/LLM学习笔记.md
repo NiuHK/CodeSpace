@@ -2,7 +2,7 @@
 ---
 title: LLM 学习笔记
 toc: true
-top: 1
+top: 0
 date: 2024-03-12 14:15:16
 tags: [LLM,AI,GPT]  
 ---

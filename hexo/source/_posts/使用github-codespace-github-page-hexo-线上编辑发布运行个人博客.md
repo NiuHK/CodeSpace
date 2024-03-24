@@ -29,3 +29,11 @@ https://blog.pk5ls20.com/posts/111d57cd/#span-%E8%83%8C%E6%99%AF%E5%9B%BE%E5%85%
 
 
 我使用的布局：.is-3-colum
+
+
+可以在Markdown文件中使用下面的语法来折叠单独的代码块：
+```
+{% codeblock "可选文件名" lang:代码语言 >folded %}
+...代码块内容...
+{% endcodeblock %}
+```
