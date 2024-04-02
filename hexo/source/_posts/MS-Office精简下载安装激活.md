@@ -3,7 +3,7 @@ title: MS_Office精简下载安装激活
 toc: true
 top: 0
 date: 2024-03-24 11:20:49
-tags:
+tags: [环境配置]
 ---
 
 >基于VL版本office的MS_Office精简下载安装激活
